@@ -8,7 +8,7 @@ rss_feeds = [
     "https://politepol.com/fd/OQ2nDPZ5prpJ.xml"
 ]
 
-ARCHIVE_PREFIX = "https://archive.is/b6pd1"
+ARCHIVE_PREFIX = "https://archive.is/b6pd1/"
 
 def fetch_items(feed_urls):
     all_items = []
